@@ -22,7 +22,7 @@ public class Solution {
     }
 
     public static void main(String[] args) throws IOException {
-        File file = new File("../input.txt");
+        File file = new File("../edge.txt");
 
         int count = 0;
 
